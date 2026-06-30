@@ -96,7 +96,7 @@ docker run -p 8000:8000 --env-file ./app/backend/.env food-recognize-backend
 
 ## 👤 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Barot Kirtan]
 
 ## 📄 License
 
